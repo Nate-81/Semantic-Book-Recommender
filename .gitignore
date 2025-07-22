@@ -12,3 +12,7 @@ wheels/
 
 # Data files
 /data
+/chroma_db
+
+#.env
+*.env
